@@ -1,0 +1,4 @@
+mavros_msgs/GPSINPUT gps_msg
+
+---
+bool success
