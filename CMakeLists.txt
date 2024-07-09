@@ -43,6 +43,7 @@ rosidl_generate_interfaces(autopilot_msgs
   "msg/Mpu.msg"
   "srv/SendGPS.srv"
   "srv/SendMPUMsg.srv"
+  "srv/SetMode.srv"
   DEPENDENCIES geometry_msgs std_msgs geometry_msgs mavros_msgs# Add packages that above messages depend on, in this case geometry_msgs for Sphere.msg
 )
 
