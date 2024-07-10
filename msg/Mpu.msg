@@ -19,7 +19,7 @@ float32 hbrake_ref
 float32 reserved4
 float32 reserved5
 float32 reserved6   
-uint8 gear
+float32 gear
 uint8 mode_fb
 uint8 switch_fb
 float32 steer_fb
